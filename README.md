@@ -3,3 +3,4 @@
 
 # git clone https://github.com/MrRock-404/DDos-Attack
 # cd DDos-Attack
+# python DDos_Attack.py
